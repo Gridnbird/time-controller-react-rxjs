@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/Gridnbird/time-controller-react-rxjs/issues"
   },
-  "homepage": "https://github.com/Gridnbird/time-controller-react-rxjs",
+  "homepage": "https://Gridnbird.github.io/time-controller-react-rxjs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
