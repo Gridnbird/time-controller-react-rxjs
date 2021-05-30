@@ -1,11 +1,12 @@
 {
   "name": "time-controller",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "npm": "6.x",
     "node": "14.x",
     "yarn": "1.x"
   },
+  "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
@@ -25,11 +26,12 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "serve": "react-scripts start",
-    "build": "react-scripts build",
+    "build:dev": "webpack",
+    "build:prod": "webpack -p --env production",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "start": "node server/server.js",
-    "heroku-postbuild": "yarn run build"
+    "heroku-postbuild": "yarn run build:prod"
   },
   "eslintConfig": {
     "extends": [
@@ -64,6 +66,7 @@
     "eslint-plugin-react": "^7.23.1",
     "eslint-plugin-react-hooks": "^1.7.0",
     "prettier": "^2.2.1",
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "webpack": "^4.44.2"
   }
 }
