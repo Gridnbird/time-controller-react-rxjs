@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Gridnbird/time-controller-react-rxjs/static/css/main.cd8c6bb1.chunk.css",
-    "main.js": "/Gridnbird/time-controller-react-rxjs/static/js/main.16ce851e.chunk.js",
-    "main.js.map": "/Gridnbird/time-controller-react-rxjs/static/js/main.16ce851e.chunk.js.map",
-    "runtime-main.js": "/Gridnbird/time-controller-react-rxjs/static/js/runtime-main.cd278d69.js",
-    "runtime-main.js.map": "/Gridnbird/time-controller-react-rxjs/static/js/runtime-main.cd278d69.js.map",
-    "static/js/2.a11f4d2b.chunk.js": "/Gridnbird/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js",
-    "static/js/2.a11f4d2b.chunk.js.map": "/Gridnbird/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js.map",
-    "index.html": "/Gridnbird/time-controller-react-rxjs/index.html",
-    "static/css/main.cd8c6bb1.chunk.css.map": "/Gridnbird/time-controller-react-rxjs/static/css/main.cd8c6bb1.chunk.css.map",
-    "static/js/2.a11f4d2b.chunk.js.LICENSE.txt": "/Gridnbird/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js.LICENSE.txt"
+    "main.css": "/time-controller-react-rxjs/static/css/main.cd8c6bb1.chunk.css",
+    "main.js": "/time-controller-react-rxjs/static/js/main.16ce851e.chunk.js",
+    "main.js.map": "/time-controller-react-rxjs/static/js/main.16ce851e.chunk.js.map",
+    "runtime-main.js": "/time-controller-react-rxjs/static/js/runtime-main.010372b3.js",
+    "runtime-main.js.map": "/time-controller-react-rxjs/static/js/runtime-main.010372b3.js.map",
+    "static/js/2.a11f4d2b.chunk.js": "/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js",
+    "static/js/2.a11f4d2b.chunk.js.map": "/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js.map",
+    "index.html": "/time-controller-react-rxjs/index.html",
+    "static/css/main.cd8c6bb1.chunk.css.map": "/time-controller-react-rxjs/static/css/main.cd8c6bb1.chunk.css.map",
+    "static/js/2.a11f4d2b.chunk.js.LICENSE.txt": "/time-controller-react-rxjs/static/js/2.a11f4d2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd278d69.js",
+    "static/js/runtime-main.010372b3.js",
     "static/js/2.a11f4d2b.chunk.js",
     "static/css/main.cd8c6bb1.chunk.css",
     "static/js/main.16ce851e.chunk.js"
